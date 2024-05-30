@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @808-LNX
+- 👀 I’m interested in:
+  - IT in general
+  - Cars 🏎️
+- 🌱 I’m currently learning:
+  - Computing
+  - Development (NodeJS, Python, HTML, CSS, JS)
+- 📫 How to reach me:
+  - Discord: 808_lnx
